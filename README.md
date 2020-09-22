@@ -19,4 +19,4 @@ All the essential documents like the ER Diagram, Design Document, SQL implementa
 
 
 
-Super stoked to finish this project with the team and looking foward to designing and building complex Databases/Data Warehouses in the future. 
+Super stoked to finish this project with the team and looking foward to designing and building complex Databases and Data Warehouses in the future. 
